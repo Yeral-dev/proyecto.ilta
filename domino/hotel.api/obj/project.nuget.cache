@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SxuR1IWbbtls9qIaRQAH+0/TfolJyV3DVTxgwQmwf73ZSF0+JlR3xEM5wu6EYn+4ACVmDE8c4Aigge9hM9yDYA==",
+  "success": true,
+  "projectFilePath": "C:\\projecto.itla\\trabajo\\domino\\hotel.api\\hotel.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP PAVILION\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\HP PAVILION\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\HP PAVILION\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\HP PAVILION\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\HP PAVILION\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\HP PAVILION\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
