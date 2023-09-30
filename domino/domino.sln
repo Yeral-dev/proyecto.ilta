@@ -3,27 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotel.domino", "hotel.domino\hotel.domino.csproj", "{DB47D132-3DC9-476C-9576-7C92A24F8227}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotel.domino", "hotel.domino\hotel.domino.csproj", "{DB47D132-3DC9-476C-9576-7C92A24F8227}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "arquitectura", "arquitectura", "{B986B68D-9D71-4FDF-8CB5-51A341CD46F5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "infractructure", "infractructure", "{B986B68D-9D71-4FDF-8CB5-51A341CD46F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotel.arquitectura", "hotel.arquitectura\hotel.arquitectura.csproj", "{A5805482-0A3A-4EC7-A118-A3F57A83D3F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotel.infractructure", "hotel.arquitectura\hotel.infractructure.csproj", "{A5805482-0A3A-4EC7-A118-A3F57A83D3F5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{92807850-DD8B-4D5F-939B-A202BCB09A79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotel.api", "hotel.api\hotel.api.csproj", "{1D288A7F-8242-46A9-8181-4783B8985E92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotel.api", "hotel.api\hotel.api.csproj", "{1D288A7F-8242-46A9-8181-4783B8985E92}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "web", "web", "{157F9B7D-2588-463A-9C2C-BE22D8534910}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotel.web", "hotel.web\hotel.web.csproj", "{3C8978C7-7D46-415B-AFF4-FA7C3B52566C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotel.web", "hotel.web\hotel.web.csproj", "{3C8978C7-7D46-415B-AFF4-FA7C3B52566C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{1FAB0B95-2BD1-4605-86D1-A2DFD0B78255}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotel.Application", "hotel.Application\hotel.Application.csproj", "{CA49D4FE-71CB-4100-BC5D-5FFFA08ED789}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotel.Application", "hotel.Application\hotel.Application.csproj", "{CA49D4FE-71CB-4100-BC5D-5FFFA08ED789}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "loc", "loc", "{DF3E58C8-8FF0-4398-9AD2-B6050ADBFE7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hotel.loc", "hotel.loc\hotel.loc.csproj", "{12AB969E-EA44-46A0-B3CE-F914327D55A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hotel.loc", "hotel.loc\hotel.loc.csproj", "{12AB969E-EA44-46A0-B3CE-F914327D55A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
