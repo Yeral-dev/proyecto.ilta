@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projecto.itla\\trabajo\\domino\\hotel.loc\\hotel.loc.csproj": {}
+    "C:\\Users\\JH\\Source\\Repos\\Yeral-dev\\proyecto.ilta\\domino\\hotel.loc\\hotel.loc.csproj": {}
   },
   "projects": {
-    "C:\\projecto.itla\\trabajo\\domino\\hotel.loc\\hotel.loc.csproj": {
+    "C:\\Users\\JH\\Source\\Repos\\Yeral-dev\\proyecto.ilta\\domino\\hotel.loc\\hotel.loc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projecto.itla\\trabajo\\domino\\hotel.loc\\hotel.loc.csproj",
+        "projectUniqueName": "C:\\Users\\JH\\Source\\Repos\\Yeral-dev\\proyecto.ilta\\domino\\hotel.loc\\hotel.loc.csproj",
         "projectName": "hotel.loc",
-        "projectPath": "C:\\projecto.itla\\trabajo\\domino\\hotel.loc\\hotel.loc.csproj",
-        "packagesPath": "C:\\Users\\HP PAVILION\\.nuget\\packages\\",
-        "outputPath": "C:\\projecto.itla\\trabajo\\domino\\hotel.loc\\obj\\",
+        "projectPath": "C:\\Users\\JH\\Source\\Repos\\Yeral-dev\\proyecto.ilta\\domino\\hotel.loc\\hotel.loc.csproj",
+        "packagesPath": "C:\\Users\\JH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JH\\Source\\Repos\\Yeral-dev\\proyecto.ilta\\domino\\hotel.loc\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP PAVILION\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

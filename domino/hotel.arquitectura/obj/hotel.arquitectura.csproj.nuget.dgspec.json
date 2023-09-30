@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projecto.itla\\trabajo\\domino\\hotel.arquitectura\\hotel.arquitectura.csproj": {}
+    "C:\\Users\\JH\\Source\\Repos\\Yeral-dev\\proyecto.ilta\\domino\\hotel.arquitectura\\hotel.arquitectura.csproj": {}
   },
   "projects": {
-    "C:\\projecto.itla\\trabajo\\domino\\hotel.arquitectura\\hotel.arquitectura.csproj": {
+    "C:\\Users\\JH\\Source\\Repos\\Yeral-dev\\proyecto.ilta\\domino\\hotel.arquitectura\\hotel.arquitectura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projecto.itla\\trabajo\\domino\\hotel.arquitectura\\hotel.arquitectura.csproj",
+        "projectUniqueName": "C:\\Users\\JH\\Source\\Repos\\Yeral-dev\\proyecto.ilta\\domino\\hotel.arquitectura\\hotel.arquitectura.csproj",
         "projectName": "hotel.arquitectura",
-        "projectPath": "C:\\projecto.itla\\trabajo\\domino\\hotel.arquitectura\\hotel.arquitectura.csproj",
-        "packagesPath": "C:\\Users\\HP PAVILION\\.nuget\\packages\\",
-        "outputPath": "C:\\projecto.itla\\trabajo\\domino\\hotel.arquitectura\\obj\\",
+        "projectPath": "C:\\Users\\JH\\Source\\Repos\\Yeral-dev\\proyecto.ilta\\domino\\hotel.arquitectura\\hotel.arquitectura.csproj",
+        "packagesPath": "C:\\Users\\JH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JH\\Source\\Repos\\Yeral-dev\\proyecto.ilta\\domino\\hotel.arquitectura\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP PAVILION\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +43,16 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
