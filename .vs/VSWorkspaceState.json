@@ -1,14 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\.github",
-    "\\.github\\workflows",
-    "\\domino",
-    "\\domino\\hotel.arquitectura",
-    "\\domino\\hotel.domino",
-    "\\domino\\hotel.domino\\Core",
-    "\\domino\\hotel.domino\\obj\\Release"
+    ""
   ],
-  "SelectedNode": "\\.github",
+  "SelectedNode": "\\domino.sln",
   "PreviewInSolutionExplorer": false
 }
