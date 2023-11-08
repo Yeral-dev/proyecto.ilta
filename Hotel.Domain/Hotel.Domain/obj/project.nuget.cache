@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2PjowOwGpfHp8AMN1tOcNkzgPIJTThDMjf82/Ky9WQQew6ARylEeVVewf2Zph3OjrutM2KbKOfgw6y9poSDGYg==",
+  "dgSpecHash": "0nsz1EDCFr9i/zA6T339zoIFUsaDmRs834nxhE9+HQQWwro6XHM3vI7sspYR8TxzNjWtODQbeKK9x2bpaEhXIg==",
   "success": true,
-  "projectFilePath": "C:\\Programacion 2.0\\Hotel.Domain\\Hotel.Domain\\Hotel.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Juanjo\\Downloads\\Programacion 2.0\\Hotel.Domain\\Hotel.Domain\\Hotel.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juanjo\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
