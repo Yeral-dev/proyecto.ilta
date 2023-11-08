@@ -16,3 +16,4 @@ C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Application\obj\De
 C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.csproj.CoreCompileInputs.cache
 C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.dll
 C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.pdb
+C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Application\obj\Debug\netstandard2.1\Hotel.Application.csproj.AssemblyReference.cache

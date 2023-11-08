@@ -1911,6 +1911,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.32",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.32",
           "System.ComponentModel.Annotations": "5.0.0"
         },
         "compile": {
@@ -6573,7 +6575,10 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Hotel.Domain >= 1.0.0",
       "Hotel.Infrastructure >= 1.0.0",
+      "Microsoft.EntityFrameworkCore >= 3.1.32",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.32",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -6610,6 +6615,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\Juanjo\\Downloads\\Programacion 2.0\\Hotel.Domain\\Hotel.Domain\\Hotel.Domain.csproj": {
+              "projectPath": "C:\\Users\\Juanjo\\Downloads\\Programacion 2.0\\Hotel.Domain\\Hotel.Domain\\Hotel.Domain.csproj"
+            },
             "C:\\Users\\Juanjo\\Downloads\\Programacion 2.0\\Hotel.Domain\\Hotel.Infrastructure\\Hotel.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\Juanjo\\Downloads\\Programacion 2.0\\Hotel.Domain\\Hotel.Infrastructure\\Hotel.Infrastructure.csproj"
             }
@@ -6626,6 +6634,14 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[3.1.32, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[3.1.32, )"
+          },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
             "version": "[6.5.0, )"

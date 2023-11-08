@@ -11,7 +11,7 @@ namespace hotel.domino.Entities
     public class RECEPCION : BaseEntity
     {
         [Key]
-        public int? IdRecepcion { get; set; }
+        public int IdRecepcion { get; set; }
 
         public int? IdCliente { get; set; }
         public int? IdHabitacion { get; set; }
@@ -25,6 +25,7 @@ namespace hotel.domino.Entities
         public decimal? CostoPenalidad { get; set; }
         public string? Observacion { get; set; }
         public bool Estado { get; set; }
+
 
 
     }

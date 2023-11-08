@@ -11,12 +11,12 @@ using System.Text;
 
 namespace Hotel.Infrastructure.Core
 {
-    public class BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : class
+    public class IBaseService<TEntity> : IBaseRepository<TEntity> where TEntity : class
 
     {
         private readonly Hotelcontex context;
         private DbSet<TEntity> entities;
-        public BaseRepository(Hotelcontex context )
+        public IBaseService(Hotelcontex context )
         {
             this.context = context;
             this.entities = this.context.Set<TEntity>();

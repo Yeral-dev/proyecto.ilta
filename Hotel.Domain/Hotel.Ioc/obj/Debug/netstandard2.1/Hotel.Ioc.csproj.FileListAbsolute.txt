@@ -11,16 +11,3 @@ C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\bin\Debug\netstandard2.1\Hotel.Domain
 C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\bin\Debug\netstandard2.1\Hotel.Domain.pdb
 C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.csproj.AssemblyReference.cache
 C:\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.csproj.CopyComplete
-C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Ioc\bin\Debug\netstandard2.1\Hotel.Ioc.deps.json
-C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Ioc\bin\Debug\netstandard2.1\Hotel.Ioc.dll
-C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Ioc\bin\Debug\netstandard2.1\Hotel.Ioc.pdb
-C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Ioc\bin\Debug\netstandard2.1\Hotel.Domain.dll
-C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Ioc\bin\Debug\netstandard2.1\Hotel.Domain.pdb
-C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.csproj.AssemblyReference.cache
-C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.AssemblyInfoInputs.cache
-C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.AssemblyInfo.cs
-C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.csproj.CoreCompileInputs.cache
-C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.csproj.CopyComplete
-C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.dll
-C:\Users\Juanjo\Downloads\Programacion 2.0\Hotel.Domain\Hotel.Ioc\obj\Debug\netstandard2.1\Hotel.Ioc.pdb

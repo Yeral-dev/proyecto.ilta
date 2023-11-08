@@ -11,7 +11,7 @@ using System.Text;
 
 namespace Hotel.Infrastructure.Repositories
 {
-    public class RecepcionRepository :BaseRepository<RECEPCION> ,IRecepcion
+    public class RecepcionRepository :IBaseService<RECEPCION> ,IRecepcion
     {
         private readonly Hotelcontex _context;
 
@@ -36,8 +36,18 @@ namespace Hotel.Infrastructure.Repositories
             _context.RECEPCION.Update(RecepcionToUpdate);
             _context.SaveChanges();
         }
+        public override void Remove(RECEPCION entity)
+        {
+            RECEPCION rECEPCION = this.GetEntity(entity.IdRecepcion);
+            rECEPCION.IdRecepcion = entity.IdRecepcion;
+            rECEPCION.Deleted = entity.Deleted;
+            rECEPCION.DeletedDate = entity.DeletedDate;
+            rECEPCION.UserDeleted = entity.UserDeleted;
+            this._context.Update(rECEPCION);
+            this._context.SaveChanges();
+        }
 
-    
+
     }
     }
 

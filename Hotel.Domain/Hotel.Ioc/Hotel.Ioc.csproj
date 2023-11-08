@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
@@ -6,7 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Hotel.Api\Hotel.Api.csproj" />
+    <ProjectReference Include="..\Hotel.Application\Hotel.Application.csproj" />
     <ProjectReference Include="..\Hotel.Domain\Hotel.Domain.csproj" />
+    <ProjectReference Include="..\Hotel.Infrastructure\Hotel.Infrastructure.csproj" />
   </ItemGroup>
+
+ 
 
 </Project>

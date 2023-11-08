@@ -33,6 +33,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\Juanjo\\Downloads\\Programacion 2.0\\Hotel.Domain\\Hotel.Domain\\Hotel.Domain.csproj": {
+                "projectPath": "C:\\Users\\Juanjo\\Downloads\\Programacion 2.0\\Hotel.Domain\\Hotel.Domain\\Hotel.Domain.csproj"
+              },
               "C:\\Users\\Juanjo\\Downloads\\Programacion 2.0\\Hotel.Domain\\Hotel.Infrastructure\\Hotel.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\Juanjo\\Downloads\\Programacion 2.0\\Hotel.Domain\\Hotel.Infrastructure\\Hotel.Infrastructure.csproj"
               }
@@ -49,6 +52,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
@@ -118,6 +129,14 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
             "System.ComponentModel.Annotations": {
               "target": "Package",
               "version": "[5.0.0, )"

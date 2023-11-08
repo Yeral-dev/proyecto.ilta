@@ -7,8 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Hotel.Application\Hotel.Application.csproj" />
-    <ProjectReference Include="..\Hotel.Infrastructure\Hotel.Infrastructure.csproj" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.32" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.32" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hotel.Api\Hotel.Api.csproj" />
+    <ProjectReference Include="..\Hotel.Domain\Hotel.Domain.csproj" />
   </ItemGroup>
 
 </Project>
