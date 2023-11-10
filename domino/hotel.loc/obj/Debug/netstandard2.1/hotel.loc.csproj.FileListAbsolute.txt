@@ -1,0 +1,9 @@
+C:\projecto.itla\trabajo\domino\hotel.loc\bin\Debug\netstandard2.1\hotel.loc.deps.json
+C:\projecto.itla\trabajo\domino\hotel.loc\bin\Debug\netstandard2.1\hotel.loc.dll
+C:\projecto.itla\trabajo\domino\hotel.loc\bin\Debug\netstandard2.1\hotel.loc.pdb
+C:\projecto.itla\trabajo\domino\hotel.loc\obj\Debug\netstandard2.1\hotel.loc.GeneratedMSBuildEditorConfig.editorconfig
+C:\projecto.itla\trabajo\domino\hotel.loc\obj\Debug\netstandard2.1\hotel.loc.AssemblyInfoInputs.cache
+C:\projecto.itla\trabajo\domino\hotel.loc\obj\Debug\netstandard2.1\hotel.loc.AssemblyInfo.cs
+C:\projecto.itla\trabajo\domino\hotel.loc\obj\Debug\netstandard2.1\hotel.loc.csproj.CoreCompileInputs.cache
+C:\projecto.itla\trabajo\domino\hotel.loc\obj\Debug\netstandard2.1\hotel.loc.dll
+C:\projecto.itla\trabajo\domino\hotel.loc\obj\Debug\netstandard2.1\hotel.loc.pdb

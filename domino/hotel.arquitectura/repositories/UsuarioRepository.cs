@@ -1,36 +1,41 @@
-﻿using hotel.domino.Entities;
+﻿
+using hotel.domino.Entities;
+using hotel.domino.repository;
+using hotel.infractructure.context;
+using hotel.infractructure.Coree;
 using hotel.infractructure.interfaces;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace hotel.infractructure.repositories
 {
-    public class UsuarioRepository : IUsuarioRepository
+
+    public class UsuarioRepository : BaseRepository<Usuario> , IUsuarioRepository
     {
-        public Usuario GetRECEPCION(int id)
+        private readonly Hotelcontext context;
+
+        public UsuarioRepository(Hotelcontext context) : base(context)
+        { 
+            this.context = context;
+        }
+        public override void Save(Usuario entity)
         {
-            throw new NotImplementedException();
+            context.Usuario.Add(entity);
+            context.SaveChanges();  
         }
 
-        public List<Usuario> GetTEntity()
+        public override void Update(Usuario entity)
         {
-            throw new NotImplementedException();
+            var UsuarioToUpdate = base.GetEntity(entity.IdUsuario);
+
+            UsuarioToUpdate.NombreCompleto = entity.NombreCompleto;
+            UsuarioToUpdate.FechaRegistro = entity.FechaRegistro;
+            UsuarioToUpdate.FechaMod = entity.FechaMod;
+            UsuarioToUpdate.IdUsuarioMod = entity.IdUsuarioMod;
+
+            context.Usuario.Update(UsuarioToUpdate);
+            context.SaveChanges();  
         }
 
-        public void Remove(Usuario entity)
-        {
-            throw new NotImplementedException();
-        }
 
-        public void Save(Usuario entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Update(Usuario entity)
-        {
-            throw new NotImplementedException();
-        }
     }
-}
+
+ }

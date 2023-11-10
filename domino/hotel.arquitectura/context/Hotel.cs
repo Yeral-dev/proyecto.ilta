@@ -1,21 +1,17 @@
 ﻿using hotel.domino.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace hotel.infractructure.context
 {
-    internal class Hotel
-    {
-        internal class Hotelcontex : DbContext
+    
+        public class Hotelcontext : DbContext
         {
-            public Hotelcontex(DbContextOptions<Hotelcontex> options) : base(options)
+            public Hotelcontext(DbContextOptions<Hotelcontext> options) : base(options)
             {
 
             }
-            public DbSet<Usuario> Usuarios { get; set; }
+            public DbSet<Usuario> Usuario { get; set; }
 
         }
-    }
+    
 }

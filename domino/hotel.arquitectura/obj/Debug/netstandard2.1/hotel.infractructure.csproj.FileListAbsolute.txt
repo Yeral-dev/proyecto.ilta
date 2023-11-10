@@ -1,0 +1,13 @@
+C:\projecto.itla\trabajo\domino\hotel.arquitectura\bin\Debug\netstandard2.1\hotel.infractructure.deps.json
+C:\projecto.itla\trabajo\domino\hotel.arquitectura\bin\Debug\netstandard2.1\hotel.infractructure.dll
+C:\projecto.itla\trabajo\domino\hotel.arquitectura\bin\Debug\netstandard2.1\hotel.infractructure.pdb
+C:\projecto.itla\trabajo\domino\hotel.arquitectura\bin\Debug\netstandard2.1\hotel.domino.dll
+C:\projecto.itla\trabajo\domino\hotel.arquitectura\bin\Debug\netstandard2.1\hotel.domino.pdb
+C:\projecto.itla\trabajo\domino\hotel.arquitectura\obj\Debug\netstandard2.1\hotel.infractructure.csproj.AssemblyReference.cache
+C:\projecto.itla\trabajo\domino\hotel.arquitectura\obj\Debug\netstandard2.1\hotel.infractructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\projecto.itla\trabajo\domino\hotel.arquitectura\obj\Debug\netstandard2.1\hotel.infractructure.AssemblyInfoInputs.cache
+C:\projecto.itla\trabajo\domino\hotel.arquitectura\obj\Debug\netstandard2.1\hotel.infractructure.AssemblyInfo.cs
+C:\projecto.itla\trabajo\domino\hotel.arquitectura\obj\Debug\netstandard2.1\hotel.infractructure.csproj.CoreCompileInputs.cache
+C:\projecto.itla\trabajo\domino\hotel.arquitectura\obj\Debug\netstandard2.1\hotel.infractructure.csproj.CopyComplete
+C:\projecto.itla\trabajo\domino\hotel.arquitectura\obj\Debug\netstandard2.1\hotel.infractructure.dll
+C:\projecto.itla\trabajo\domino\hotel.arquitectura\obj\Debug\netstandard2.1\hotel.infractructure.pdb
